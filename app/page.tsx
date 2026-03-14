@@ -309,7 +309,7 @@ export default function Page() {
                       onClick={() => setOpenProductId(p.id)}
                       className="rounded-xl border border-white/15 px-4 py-3 font-medium text-white hover:bg-white/10"
                     >
-                      Ko‘rish
+                      Ko‘rish uchun
                     </button>
                   </div>
                 </div>
